@@ -1,8 +1,10 @@
 ## College Name - Team Name
-Provide details of team members 
+Santhosh Gowda M
+Shivanand A Hanchinal
+Sohaib Usman Noorashanavar
 
 ## Problem Statement
-Provide description of which Theme and Problem statement you are attempting
+
 
 ## Instructions on running your project
 Provide detailed steps to get your project up and running, including any dependencies
