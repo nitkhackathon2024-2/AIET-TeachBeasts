@@ -38,11 +38,11 @@ FinWise is a dynamic financial literacy app that'll help you Learn finance with 
 ## Instructions on running your project
  #### 1. Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/AIET-TechBeasts/FinWise.git
+   git clone https://github.com/AIET-TechBeasts
 ```
 ### 2. change working directory to FinWise
 ```bash
-cd FinWise
+cd code && cd FinWise
 ```
 ### 3. You can also view this project on vercel
 <a href="https://finwise-seven.vercel.app">finwise-seven.vercel.app</a>
